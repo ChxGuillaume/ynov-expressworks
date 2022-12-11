@@ -9,7 +9,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "crypto": "^1.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "expressworks": "^3.4.3",
     "pug": "^2.0.4",
     "stylus": "^0.54.7"
